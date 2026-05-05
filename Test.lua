@@ -1,6 +1,6 @@
 task.wait(0.2)
 
-print("Started")
+print("Started v1")
 
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
